@@ -1,0 +1,10 @@
+Steps:
+1. Firstly Imported all necessary libraries
+2. Explore the different regions of transactions (because different region people have different requirements)
+3. Based on that I choose one of the region for the analysis
+4. Then I cleaned the data and preprocess it further
+5. I encoded the data using One Hot Encoding
+6. Build model using Apriori Algorithm
+7. Using the Output of Association rules 
+8. Further,I have Filter to reduce the number of rules
+9. And provide some of the most prominent rules based on the performance on different metrics
